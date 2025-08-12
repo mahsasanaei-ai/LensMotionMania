@@ -52,5 +52,5 @@ stack-data==0.6.2
 tifffile==2023.7.18
 tornado==6.5
 traitlets==5.9.0
-urllib3==2.2.2
+urllib3==2.5.0
 wcwidth==0.2.6
